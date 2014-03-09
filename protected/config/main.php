@@ -82,10 +82,10 @@ return array(
 		// uncomment the following to use a MySQL database
 
 		'db'=>array(
-			'connectionString' => 'mysql:host=mysql303.1gb.ua;dbname=blog_kot',
+			'connectionString' => 'mysql:host=localhost;dbname=blog_kot',
 			'emulatePrepare' => true,
-			'username' => 'gbua_blog_kot',
-			'password' => 'f3a3e669ty',
+			'username' => 'root',
+			'password' => '',
 			'charset' => 'utf8',
 		),
 
